@@ -27,7 +27,7 @@ module Hookup
     %x(git config --global init.templatedir '~/.git_template')
 
     # Quit Terminal because restart is required for these changes to stick.
-    %x(osascript -e "tell application \"System Events\" to keystroke \"q\" using command down")
+    %x(osascript -e 'tell application \"System Events\" to keystroke \"q\" using command down')
   end
 end
 
