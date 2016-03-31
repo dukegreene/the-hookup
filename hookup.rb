@@ -1,3 +1,5 @@
+# I haven't fully vetted specific_install. Not sure if the gem causes any unforeseen problems on systems.
+
 module Hookup
   def self.setup_lirpa_commit_template
     # Install a gem to allow for one-line gem install CLI command targeting a specific git repo.
