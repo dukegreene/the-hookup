@@ -1,5 +1,5 @@
 module Hookup
-  def setup_lirpa_commit_template
+  def self.setup_lirpa_commit_template
     # Install a gem to allow for one-line gem install CLI command targeting a specific git repo.
     %x(gem install specific_install)
 
