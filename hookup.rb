@@ -1,6 +1,5 @@
 # This is a rough, hastily-researched solution for a domain-specific, time-sensitive use case. 
-# The code throws several warnings and has not been peer- or mentor-reviewed.
-# It is March 31, and I have less than 18 hours to pull off this gentle prank.
+# It is March 31, and I have less than 18 hours to pull off a gentle prank.
 # I am optimizing for silliness and setup speed.
 # Forgive me, Gods of Good Code, for I know not what I am doing. 
 
